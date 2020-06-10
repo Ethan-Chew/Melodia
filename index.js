@@ -1,6 +1,8 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('NjE4MjUxMDEwNTMxMzkzNTM2.XW2-YQ.niKKV94rO7VC2NJZErLhbJfV1tA')
+
+const TOKEN = ''
+client.login(TOKEN)
 const ownerID = 380612857144016897 //your discord ID here (not used for this bot)
 const Version = '1.1 Beta'
 
